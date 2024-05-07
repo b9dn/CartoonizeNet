@@ -18,7 +18,7 @@ To train and test the neural networks, follow these steps:
 
 ## Example Results
 
-| Original Image (imgs/)        | GAN Conversion (imgs/Gan/)    | AdaIN Style Transfer (imgs/styleTransfer/) |
+| Original Image                 | GAN Conversion                 | AdaIN Style Transfer                        |
 |--------------------------------|--------------------------------|---------------------------------------------|
 | ![Dog Original](imgs/dog.jpg) | ![Dog Cartoon](imgs/Gan/dog_cartoon.jpg) | ![Dog Cartoon](imgs/styleTransfer/dog_cartoon.jpg) |
 | ![Cat Original](imgs/cat.jpg) | ![Cat Cartoon](imgs/Gan/cat_cartoon.jpg) | ![Cat Cartoon](imgs/styleTransfer/cat_cartoon.jpg) |
