@@ -1,5 +1,4 @@
 # CartoonizeNet
-# Comic Neural Network
 
 This repository contains neural networks trained to convert images into their comic versions. Two different approaches were implemented:
 
