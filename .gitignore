@@ -1,0 +1,6 @@
+.venv
+.idea
+models/
+input/content/
+__pycache__/
+
