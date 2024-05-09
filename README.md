@@ -12,7 +12,7 @@ To train and test the neural networks, follow these steps:
 1. Ensure you have the necessary dependencies installed.
 2. Run the Jupyter notebook files provided in the repository to train the networks.
 3. After training, save the networks on your local machine.
-4. Adjust the file paths in the testing script (test.py or console_test.py) according to your local setup.
+4. Adjust the file paths in the testing scripts (test.py or console_test.py) according to your local setup.
 5. Execute the testing script to convert your own images into comic versions.
 
 ## Example Results
